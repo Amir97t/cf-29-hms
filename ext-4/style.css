@@ -1,0 +1,27 @@
+body {
+  background-color: pink;
+}
+
+.modal-container {
+  display: none;
+}
+.btn {
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+  color: white;
+  border: none;
+}
+
+.btn-launch {
+  font-size: 15px;
+  background-color: blue;
+}
+
+.modal-btn-save {
+  background-color: gray;
+}
+
+.modal-btn-close {
+  background-color: blue;
+}
